@@ -4,12 +4,15 @@
 - 📚 Learning **Java**, **Angular**, and **MySQL**  
 
 ---
----
 
 ### 📊 GitHub Stats  
 
-![Isac Git Stat's](https://github-readme-stats.vercel.app/api?username=imvcustodio&theme=chartreuse-dark&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvcustodio&hide_progress=false&theme=chartreuse-dark)
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imvcustodio&theme=chartreuse-dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvcustodio&hide_progress=false&theme=chartreuse-dark" />
+
+</div>
 
 ---
 

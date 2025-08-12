@@ -1,7 +1,10 @@
 ## 👋 Hello, I'm Isac!
 
-- 🧑‍💼 Currently working at **LDTT**  
-- 📚 Learning **Java**, **Angular**, and **MySQL**  
+
+- 🖥️ IT Technician graduated from the **Federal Institute of Santa Catarina (IFC)**  
+- 🎓 Computer Science student at the **Regional University of Blumenau (FURB)**  
+- 🧑‍💼 Currently working at the **Laboratory of Development and Technology Transfer (LDTT)**  
+- 📚 Constantly learning **Java**, **Angular**, and **MySQL**  
 
 ---
 
